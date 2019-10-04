@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 5cbb97a79d942ff428bb36d0ed07d88c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back_cube
+    100002: Barrier
+    100004: Bush_placement
+    100006: Bush_placement1
+    100008: Cloack
+    100010: Clock_Spindal
+    100012: ClockBack
+    100014: CylinderTower
+    100016: CylinderTowerLeft
+    100018: Door
+    100020: Floor
+    100022: group
+    100024: group1
+    100026: group5
+    100028: group7
+    100030: group8
+    100032: imagePlane1
+    100034: Left_upper_words
+    100036: LeftBackWall
+    100038: pasted__pCube20
+    100040: pasted__pCube20 1
+    100042: pasted__pCube7
+    100044: pasted__pCylinder2
+    100046: pasted__pCylinder3
+    100048: pCube20
+    100050: pCylinder1
+    100052: pCylinder6
+    100054: pCylinder7
+    100056: Pillar_Roof
+    100058: Pillars
+    100060: RighBackWall
+    100062: right_upper_words
+    100064: //RootNode
+    100066: StartRoom
+    100068: TrainSign
+    400000: Back_cube
+    400002: Barrier
+    400004: Bush_placement
+    400006: Bush_placement1
+    400008: Cloack
+    400010: Clock_Spindal
+    400012: ClockBack
+    400014: CylinderTower
+    400016: CylinderTowerLeft
+    400018: Door
+    400020: Floor
+    400022: group
+    400024: group1
+    400026: group5
+    400028: group7
+    400030: group8
+    400032: imagePlane1
+    400034: Left_upper_words
+    400036: LeftBackWall
+    400038: pasted__pCube20
+    400040: pasted__pCube20 1
+    400042: pasted__pCube7
+    400044: pasted__pCylinder2
+    400046: pasted__pCylinder3
+    400048: pCube20
+    400050: pCylinder1
+    400052: pCylinder6
+    400054: pCylinder7
+    400056: Pillar_Roof
+    400058: Pillars
+    400060: RighBackWall
+    400062: right_upper_words
+    400064: //RootNode
+    400066: StartRoom
+    400068: TrainSign
+    2100000: lambert4
+    2100002: lambert6
+    2100004: lambert2
+    2100006: lambert3
+    2100008: lambert5
+    2100010: lambert1
+    2300000: Back_cube
+    2300002: Barrier
+    2300004: Bush_placement
+    2300006: Cloack
+    2300008: Clock_Spindal
+    2300010: ClockBack
+    2300012: CylinderTower
+    2300014: Door
+    2300016: Floor
+    2300018: Left_upper_words
+    2300020: LeftBackWall
+    2300022: pasted__pCube20
+    2300024: pasted__pCube20 1
+    2300026: pasted__pCube7
+    2300028: pasted__pCylinder2
+    2300030: pasted__pCylinder3
+    2300032: pCube20
+    2300034: pCylinder1
+    2300036: pCylinder6
+    2300038: pCylinder7
+    2300040: Pillar_Roof
+    2300042: Pillars
+    2300044: right_upper_words
+    2300046: StartRoom
+    2300048: TrainSign
+    3300000: Back_cube
+    3300002: Barrier
+    3300004: Bush_placement
+    3300006: Cloack
+    3300008: Clock_Spindal
+    3300010: ClockBack
+    3300012: CylinderTower
+    3300014: Door
+    3300016: Floor
+    3300018: Left_upper_words
+    3300020: LeftBackWall
+    3300022: pasted__pCube20
+    3300024: pasted__pCube20 1
+    3300026: pasted__pCube7
+    3300028: pasted__pCylinder2
+    3300030: pasted__pCylinder3
+    3300032: pCube20
+    3300034: pCylinder1
+    3300036: pCylinder6
+    3300038: pCylinder7
+    3300040: Pillar_Roof
+    3300042: Pillars
+    3300044: right_upper_words
+    3300046: StartRoom
+    3300048: TrainSign
+    4300000: Floor
+    4300002: Back_cube
+    4300004: Cloack
+    4300006: Barrier
+    4300008: pCylinder1
+    4300010: ClockBack
+    4300012: TrainSign
+    4300014: LeftBackWall
+    4300016: pasted__pCube7
+    4300018: CylinderTower
+    4300020: pasted__pCylinder2
+    4300022: StartRoom
+    4300024: Bush_placement
+    4300026: pasted__pCylinder3
+    4300028: Clock_Spindal
+    4300030: Door
+    4300032: Pillars
+    4300034: Pillar_Roof
+    4300036: Left_upper_words
+    4300038: right_upper_words
+    4300040: pCylinder6
+    4300042: pCube20
+    4300044: pasted__pCube20
+    4300046: pasted__pCube20
+    4300048: pCylinder7
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 200
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
